@@ -1,0 +1,30 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.title {
+    background: #d420a1;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+.todos {
+    padding: 10px;
+}
+
+.singleItem {
+    background: #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+.adder {
+    background: #bd1abd;
+}
+
+.warning {
+    background-color: red;
+}
